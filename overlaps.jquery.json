@@ -1,0 +1,32 @@
+{
+    "name": "overlaps",
+    "title": "jQuery Overlaps",
+    "description": "Determine if an element overlaps/collides another.",
+    "keywords": [
+        "over",
+        "overlap",
+        "overlaps",
+        "collide",
+        "collides",
+        "colliding",
+        "collision"
+    ],
+    "version": "0.0.1",
+    "author": {
+        "name": "Yannick Albert",
+        "url": "https://github.com/yckart"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://yckart.com/mit/"
+        }
+    ],
+    "homepage": "http://yckart.github.com/jquery.overlaps.js",
+    "demo": "http://yckart.github.com/jquery.overlaps.js",
+    "docs": "https://github.com/yckart/jquery.overlaps.js",
+    "bugs": "https://github.com/yckart/jquery.overlaps.js/issues",
+    "dependencies": {
+        "jquery": ">=1.8"
+    }
+}
